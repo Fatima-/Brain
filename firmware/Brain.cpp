@@ -1,5 +1,5 @@
-#include "Arduino.h"
-#include "Brain.h"
+#include <Arduino.h>
+#include <Brain.h>
 
 Brain::Brain(Stream &_brainStream) {
     brainStream = &_brainStream;
