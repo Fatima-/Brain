@@ -1,2 +1,7 @@
-jjjj
-firmware/test/a.out
+{
+  "name": "${LIB_NAME}",
+  "version": "1.0.1",
+  "author": "Erik Mika",
+  "license": "GNU GPLv3",
+  "description": "Brain EEG base library for NeuroSky TGAM1 MindFlex" 
+}
